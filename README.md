@@ -30,5 +30,15 @@
 - [EX03-07 Tips](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/EX03_07.ipynb)
   
 ### 04 Machine Learning
+- [EX04-01 汽車車型數值資料轉換](https://github.com/FlyFish0203/flyfish/blob/4ee5af60554a4d8c1070392226a8a7b8026bed19/ex04_01.ipynb)
+- [EX04-02 客戶基本資料編碼](https://github.com/FlyFish0203/flyfish/blob/4ee5af60554a4d8c1070392226a8a7b8026bed19/ex04_02.ipynb)
+- [EX04-03 客戶分群](https://github.com/FlyFish0203/flyfish/blob/4ee5af60554a4d8c1070392226a8a7b8026bed19/ex04_03.ipynb)
+- [EX04-04 加州房價](https://github.com/FlyFish0203/flyfish/blob/4ee5af60554a4d8c1070392226a8a7b8026bed19/EX04_04%E4%BD%9C%E6%A5%AD.ipynb)
+- [EX04-05 辨識鳶尾花](https://github.com/FlyFish0203/flyfish/blob/4ee5af60554a4d8c1070392226a8a7b8026bed19/ex04_05.ipynb)
+- [EX04-06 ET Today 新聞標題分類](https://github.com/FlyFish0203/flyfish/blob/60d033bb04e308a4eb50da3df0f7d1d7cd83c8a8/ex04_06.ipynb)
 
 ### 05 Web API
+- [EX05-01 Echo Bot](https://github.com/FlyFish0203/flyfish/blob/60d033bb04e308a4eb50da3df0f7d1d7cd83c8a8/ex05_01.ipynb)
+- [EX05-02 Ask Gemini](https://github.com/FlyFish0203/flyfish/blob/60d033bb04e308a4eb50da3df0f7d1d7cd83c8a8/ex05_02.ipynb)
+- [EX05-03 Reply Multi-type Messages](https://github.com/FlyFish0203/flyfish/blob/60d033bb04e308a4eb50da3df0f7d1d7cd83c8a8/ex05_03.ipynb)
+- [EX05-04 Reply Template Messages](https://github.com/FlyFish0203/flyfish/blob/60d033bb04e308a4eb50da3df0f7d1d7cd83c8a8/ex05_04.ipynb)
