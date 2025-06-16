@@ -10,10 +10,25 @@
 - [EX01-05 Caesar Cipher: Encode and decode](https://github.com/FlyFish0203/flyfish/blob/488ec62888a500050b266c61d361ab9a7d7416bb/EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
 - [EX01_06_簡易購物車](https://github.com/FlyFish0203/flyfish/blob/488ec62888a500050b266c61d361ab9a7d7416bb/EX01_06_%E7%B0%A1%E6%98%93%E8%B3%BC%E7%89%A9%E8%BB%8A.ipynb)
 - [EX01-07 美食資訊查詢](https://github.com/FlyFish0203/flyfish/blob/4d93659192e2d1670b50b2379f3bff79e0b14ac7/%E4%BD%9C%E6%A5%AD7.ipynb)
+  
 ### 02 Web Crawler
+- [EX02-01 My Chatbot](https://github.com/FlyFish0203/flyfish/blob/58aec9c3f5da5568089a92357c02273bd2aa1214/EX02_01_My_Chatbot.ipynb)
+- [EX02-02 高雄紅橘線捷運車站位置查詢](https://github.com/FlyFish0203/flyfish/blob/58aec9c3f5da5568089a92357c02273bd2aa1214/ex02_02.ipynb)
+- [EX02-03 Yahoo 新聞儲存 Google 試算表](https://github.com/FlyFish0203/flyfish/blob/58aec9c3f5da5568089a92357c02273bd2aa1214/ex02_03.ipynb)
+- [EX02-04 Download Pokemon Images](https://github.com/FlyFish0203/flyfish/blob/58aec9c3f5da5568089a92357c02273bd2aa1214/ex02_04.ipynb)
+- [EX02-05 PTT Gossiping](https://github.com/FlyFish0203/flyfish/blob/58aec9c3f5da5568089a92357c02273bd2aa1214/ex02_05.ipynb)
+- [EX02-06 開眼電影](https://github.com/FlyFish0203/flyfish/blob/58aec9c3f5da5568089a92357c02273bd2aa1214/ex02_06.ipynb)
+- [EX02-07 KKDay](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/EX02_07_.ipynb)
 
 ### 03 Data Analysis
-
+- [EX03-01 公司薪資概況Ⅰ](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/EX03_01.ipynb)
+- [EX03-02 公司薪資概況Ⅱ](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/EX03_02.ipynb)
+- [EX03-03 空氣品質指標(AQI)](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/EX03_03.ipynb)
+- [EX03-04 薪情平台](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/ex03_04.ipynb)
+- [EX03-05 台灣股票市場個股每日成交資訊](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/ex03_05.ipynb)
+- [EX03-06 出生人口數](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/ex03_06.ipynb)
+- [EX03-07 Tips](https://github.com/FlyFish0203/flyfish/blob/21e23e2083788c2910a0a7352e28801e4dfa1ca6/EX03_07.ipynb)
+  
 ### 04 Machine Learning
 
 ### 05 Web API
