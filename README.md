@@ -42,3 +42,6 @@
 - [EX05-02 Ask Gemini](https://github.com/FlyFish0203/flyfish/blob/60d033bb04e308a4eb50da3df0f7d1d7cd83c8a8/ex05_02.ipynb)
 - [EX05-03 Reply Multi-type Messages](https://github.com/FlyFish0203/flyfish/blob/60d033bb04e308a4eb50da3df0f7d1d7cd83c8a8/ex05_03.ipynb)
 - [EX05-04 Reply Template Messages](https://github.com/FlyFish0203/flyfish/blob/60d033bb04e308a4eb50da3df0f7d1d7cd83c8a8/ex05_04.ipynb)
+
+### Important Homework
+- [Final Report](https://github.com/FlyFish0203/flyfish/blob/4b6843cf0bc920953dbc58c386707226d9517fb8/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.ipynb)
